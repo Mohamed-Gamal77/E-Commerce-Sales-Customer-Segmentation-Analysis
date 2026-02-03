@@ -4,6 +4,14 @@
 This project analyzes e-commerce transactional data to evaluate Sales performance, Customer behavior, Revenue Distribution.
 the objective is to extract actionable business insights and support decision-making through data analysis and interactive dashboards.
 
+## Dashboards Preview
+
+### Main Dashboard
+![Main Dashboard](screenshots/Main%20Dashboard.png)
+
+### RFM Dashboard
+![RFM Dashboard](screenshots/RFM%20Dashboard.png)
+
 ## Dataset Description
 - Transaction-level e-commerce data
 - Includes customer, country, and revenue information
@@ -62,4 +70,5 @@ Recent customers with strong growth potential.
 - Python (Pandas)
 - SQL
 - Power BI
+
 - Jupyter Notebook
